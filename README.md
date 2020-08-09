@@ -5,7 +5,7 @@ My 100 Days of Competitve Programming Journey!
 
 ### Day-1 : HackerRank DS: Array (Solved)
 
-- Arrays - DS [Easy]: [Link](https://www.hackerrank.com/challenges/arrays-ds)   [code](https://github.com/kiranbabumuddam/codeforces)
+- Arrays - DS [Easy]: [Link](https://www.hackerrank.com/challenges/arrays-ds)  || [code](https://github.com/kiranbabumuddam/codeforces)
 
 - 2D Array - DS [Easy]: https://www.hackerrank.com/challenges/2d-array
 
