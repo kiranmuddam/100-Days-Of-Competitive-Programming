@@ -5,8 +5,8 @@ My 100 Days of Competitve Programming Journey!
 
 ### Day-1 : Leetcode & Codeforces Contest
 
-- Leetcode : 904 | [Fruit Into Baskets](https://leetcode.com/articles/fruit-into-baskets/) | [C++](https://github.com/kiranbabumuddam/leetcode/904/904.cpp) | _O(N)_ | _O(N)_          | Medium         | HashMap, Vector, Sliding Window ||
-- Leetcode: 929 | [Unique Email Addresses ](https://leetcode.com/problems/unique-email-addresses/) | [C++](https://github.com/kiranbabumuddam/leetcode/929/929.cpp) , [Python3](https://github.com/kiranbabumuddam/leetcode/929/929.py)  | _O(C)_ | _O(C)_          | Easy         |Set, Vector||
+- Leetcode : 904 | [Fruit Into Baskets](https://leetcode.com/articles/fruit-into-baskets/) | [C++](https://github.com/kiranbabumuddam/leetcode/blob/master/904/904.cpp) | _O(N)_ | _O(N)_          | Medium         | HashMap, Vector, Sliding Window ||
+- Leetcode: 929 | [Unique Email Addresses ](https://leetcode.com/problems/unique-email-addresses/) | [C++](https://github.com/kiranbabumuddam/leetcode/tree/master/929) , [Python3](https://github.com/kiranbabumuddam/leetcode/tree/master/929)  | _O(C)_ | _O(C)_          | Easy         |Set, Vector||
 
 - Participated CodeForces 661 Div3: https://github.com/kiranbabumuddam/codeforces/tree/master/661%20Div3
 
