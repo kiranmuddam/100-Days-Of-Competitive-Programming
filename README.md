@@ -40,4 +40,8 @@ I am doing competitive programming from few months but not consistent. This is a
 - Participated in Codeforces 663 Div2. Solved first 2 problems in single attempt. 3rd problem is related to graphs and cycle perumutations, which is a concept I never heard of LOL! https://github.com/kiranbabumuddam/codeforces/tree/master/663%20Div2
 - Watched Module00 from ACM ICPC Prep
 
+### Day-6: CSES ProbleSet and ACM ICPC Prep
 
+- Solved 5 introductory problems from CSES problemset https://github.com/kiranbabumuddam/cses.fi
+- Completed Week1 of ACM ICPC Prep
+- Also today I presented my team project for kerala HacKP police hackathon.
