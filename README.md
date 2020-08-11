@@ -42,6 +42,12 @@ I am doing competitive programming from few months but not consistent. This is a
 
 ### Day-6: CSES ProbleSet and ACM ICPC Prep
 
-- Solved 5 introductory problems from CSES problemset https://github.com/kiranbabumuddam/cses.fi
+- Solved 1-5 introductory problems from CSES problemset https://github.com/kiranbabumuddam/cses.fi
 - Completed Week1 of ACM ICPC Prep
 - Also today I presented my team project for kerala HacKP police hackathon.
+
+### Day-7: CSES ProblemSet and Coding Patterns/Leetcode
+
+- Solved 6-8 introductory problems from CSES problemset https://github.com/kiranbabumuddam/cses.fi
+- Read Two Pointers Coding Pattern -> LinkedList Cycle Detection (EASY), LinkedList Cycle Starting Element (MEDIUM)
+- Solved Leetcode Problem 26 -> https://github.com/kiranbabumuddam/leetcode/
