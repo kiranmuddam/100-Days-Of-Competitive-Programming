@@ -1,7 +1,7 @@
 # 100-Days-Of-Competitive-Programming
 My 100 Days of Competitve Programming Journey!
 
-I am doing competitive programming from few months but not consistent. This is a attempt to participate everyday and keep track of my activities.
+I am doing competitive programming from few months but not consistent. This is a attempt to improve and participate everyday and keep track of my competitive programing learning & activities.
 
 
 
