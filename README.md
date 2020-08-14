@@ -61,4 +61,5 @@ I am doing competitive programming from few months but not consistent. This is a
 
 - Solved 3 google online assessment interview questions on leetcode : https://github.com/kiranbabumuddam/leetcode/tree/master/google-online-assessment
 - Participated in practise contest in hackerearth for platform knowledge for the google interview.
+- Attended group discussion for Assam Police Hackathon project idea.
 
