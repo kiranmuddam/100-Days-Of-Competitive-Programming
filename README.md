@@ -63,3 +63,8 @@ I am doing competitive programming from few months but not consistent. This is a
 - Participated in practise contest in hackerearth for platform knowledge for the google interview.
 - Attended group discussion for Assam Police Hackathon project idea.
 
+###Day-10: Codeforces & Google Assessment Question
+
+- Participated in codeforces Educational Round 93 and solved first two problems and TLE on 3rd problem : https://github.com/kiranbabumuddam/codeforces/tree/master/Educational%20Round%2093
+- Solved 1 google online assessment question.
+
