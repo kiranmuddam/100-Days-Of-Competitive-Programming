@@ -51,3 +51,13 @@ I am doing competitive programming from few months but not consistent. This is a
 - Solved 6-8 introductory problems from CSES problemset https://github.com/kiranbabumuddam/cses.fi
 - Read Two Pointers Coding Pattern -> LinkedList Cycle Detection (EASY), LinkedList Cycle Starting Element (MEDIUM)
 - Solved Leetcode Problem 26 -> https://github.com/kiranbabumuddam/leetcode/
+
+### Day-8: Codeforces & Google assessment research
+
+- Participated in codeforces 664 div2 and solved first two problems : https://github.com/kiranbabumuddam/codeforces/tree/master/664%20Div2
+- Gathered information related to google online assessment interview round from leetcode and blind. Scheduled google first round interview on AUG 16th.
+
+### Day-9: Leetcode Google Assessment Questions
+
+- Solved 3 google online assessment interview questions on leetcode : https://github.com/kiranbabumuddam/leetcode/tree/master/google-online-assessment
+
