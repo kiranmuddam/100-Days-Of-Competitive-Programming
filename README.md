@@ -68,3 +68,13 @@ I am doing competitive programming from few months but not consistent. This is a
 - Participated in codeforces Educational Round 93 and solved first two problems and TLE on 3rd problem : https://github.com/kiranbabumuddam/codeforces/tree/master/Educational%20Round%2093
 - Solved 1 google online assessment question.
 
+### Day-11: Google Assessment Questions
+
+- Practised Google online assessment questions on leetcode.
+
+### Day-12: Google Assessment & CodeForces
+
+- Took Google Interview first Round 2 QNS. First question is TLE and no time for correct submission 2nd questions. I messed it up. I will add the questions solves soon.
+- Participated in Codeforces Global Round 10
+
+
