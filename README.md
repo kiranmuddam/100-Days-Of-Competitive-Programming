@@ -77,4 +77,8 @@ I am doing competitive programming from few months but not consistent. This is a
 - Took Google Interview first Round 2 QNS. First question is TLE and no time for correct submission 2nd questions. I messed it up. I will add the questions solves soon.
 - Participated in Codeforces Global Round 10
 
+### Day-13: USACO Guide & Books
 
+- Completed USACO guide general track till input/output : https://usaco-guide.vercel.app/general/io
+- Read various introductory concepts from different competitive programming books.
+- Discussed about new hackathon project with the team. Doing research.
