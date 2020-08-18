@@ -76,6 +76,7 @@ I am doing competitive programming from few months but not consistent. This is a
 
 - Took Google Interview first Round 2 QNS. First question is TLE and no time for correct submission 2nd questions. I messed it up. I will add the questions solves soon.
 - Participated in Codeforces Global Round 10
+- Practised few trees questions on leetcode.
 
 ### Day-13: USACO Guide & Books
 
