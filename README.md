@@ -83,3 +83,13 @@ I am doing competitive programming from few months but not consistent. This is a
 - Completed USACO guide general track till input/output : https://usaco-guide.vercel.app/general/io
 - Read various introductory concepts from different competitive programming books.
 - Discussed about new hackathon project with the team. Doing research.
+
+### Day-14: USACO Guide & Books
+
+- Completed USACO guide general track https://usaco-guide.vercel.app/general
+- Read various introductory concepts from different competitive programming books.
+
+### Day-15: USACO Guide & Books
+
+- Completed USACO guide bronze track till time complexity : https://usaco-guide.vercel.app/bronze
+- Read various introductory concepts from different competitive programming books.
