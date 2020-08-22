@@ -93,3 +93,8 @@ I am doing competitive programming from few months but not consistent. This is a
 
 - Completed USACO guide bronze track till time complexity : https://usaco-guide.vercel.app/bronze
 - Read various introductory concepts from different competitive programming books.
+
+### Day-16: Project & Codeforces
+
+- Did research on implementation of project for assam police hackathon, implemented a bot using twilio API
+- Participated in codeforces 665 Div2 round. Solved first 2 qns. https://github.com/kiranbabumuddam/codeforces/tree/master/665%20Div2
